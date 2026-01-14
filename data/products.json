@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "description": "High-performance laptop",
+    "price": 999.99,
+    "stock": 15
+  },
+  {
+    "id": 2,
+    "name": "Wireless Mouse",
+    "description": "Ergonomic wireless mouse",
+    "price": 34.99,
+    "stock": 45
+  },
+  {
+    "id": 3,
+    "name": "USB-C Cable",
+    "description": "3-meter USB-C charging cable",
+    "price": 12.99,
+    "stock": 100
+  },
+  {
+    "id": 4,
+    "name": "Monitor",
+    "description": "27-inch 4K monitor",
+    "price": 399.99,
+    "stock": 8
+  },
+  {
+    "id": 5,
+    "name": "Keyboard",
+    "description": "Mechanical RGB keyboard",
+    "price": 149.99,
+    "stock": 25
+  },
+  {
+    "id": 6,
+    "name": "Headphones",
+    "description": "Noise-cancelling headphones",
+    "price": 199.99,
+    "stock": 30
+  }
+]
